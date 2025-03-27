@@ -1,7 +1,7 @@
 import {
     random_integer_up_to_excluding,
     random_lower_case_letter_except
-} from "Experimentation/dist/Experimentation/Experimentation";
+} from "Experimentation/src/Experimentation/Experimentation";
 
 export function generate_boolean_expression_as_string(treat_var_format:string):string {
 

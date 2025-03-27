@@ -2,11 +2,11 @@ import {
     alternatives,
     Experiment_Output_Writer, keys, Reaction_Time,
     SET_SEED
-} from "Experimentation/dist/Experimentation/Experimentation";
-import {Task} from "Experimentation/dist/Experimentation/Task";
+} from "Experimentation/src/Experimentation/Experimentation";
+import {Task} from "Experimentation/src/Experimentation/Task";
 import {} from "./Bool_Expression_Generator";
 import {generate_boolean_expression_as_string} from "./Bool_Expression_Generator";
-import {BROWSER_EXPERIMENT} from "Experimentation/dist/Experimentation/Browser_Output_Writer";
+import {BROWSER_EXPERIMENT} from "Experimentation/src/Experimentation/Browser_Output_Writer";
 
 let SEED = "42";
 
