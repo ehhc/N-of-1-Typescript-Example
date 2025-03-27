@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "dependencies": {
-    "Experimentation": "github:ehhc/N-of-1-Experimentation#refactoring-with-src-folder"
+    "Experimentation": "github:ehhc/N-of-1-Experimentation#refactoring"
   },
   "devDependencies": {
     "ts-loader": "^9.5.2",
